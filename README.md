@@ -1,4 +1,4 @@
 # Hello-world
 My first GitHub repository 
 
-This is my first commit change for the branch readme-edits
+This is my second commit in the branch read-me
